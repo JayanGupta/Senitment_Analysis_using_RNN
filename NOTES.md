@@ -14,3 +14,7 @@ This document tracks engineering milestones, experiment logs, parameter optimiza
 - **Focus**: docs: document binary cross-entropy loss convergence
 - **Technical Summary**: Analyzed training vs validation accuracy curve and early stopping at epoch 8.
 
+### Milestone Log - 2025-07-23 (10:27)
+- **Focus**: docs: update Swiggy dataset preprocessing and cleaning
+- **Technical Summary**: Cleaned review texts, removed emojis and food order abbreviations.
+
