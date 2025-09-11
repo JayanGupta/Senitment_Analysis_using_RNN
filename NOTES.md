@@ -58,3 +58,7 @@ This document tracks engineering milestones, experiment logs, parameter optimiza
 - **Focus**: refactor: configure SimpleRNN architecture and word embeddings
 - **Technical Summary**: Integrated GloVe 100d pre-trained embeddings with trainable fine-tuning.
 
+### Milestone Log - 2025-09-11 (14:34)
+- **Focus**: docs: document binary cross-entropy loss convergence
+- **Technical Summary**: Analyzed training vs validation accuracy curve and early stopping at epoch 8.
+
