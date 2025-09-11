@@ -54,3 +54,7 @@ This document tracks engineering milestones, experiment logs, parameter optimiza
 - **Focus**: docs: update Swiggy dataset preprocessing and cleaning
 - **Technical Summary**: Cleaned review texts, removed emojis and food order abbreviations.
 
+### Milestone Log - 2025-09-11 (10:43)
+- **Focus**: refactor: configure SimpleRNN architecture and word embeddings
+- **Technical Summary**: Integrated GloVe 100d pre-trained embeddings with trainable fine-tuning.
+
